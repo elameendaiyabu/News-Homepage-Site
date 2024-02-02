@@ -17,8 +17,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [GitHub URL]()
-- Live Site URL: [Netlify Site]()
+- Solution URL: [GitHub URL](https://github.com/elameendaiyabu/News-Homepage-Site.git)
+- Live Site URL: [Netlify Site](https://news-homepage-site.netlify.app/)
 
 <!-- ### Screenshot
 
